@@ -1,0 +1,2 @@
+Problem Statement:
+How can we accurately classify individuals into credit risk categories (e.g., "Poor", "Standard", "Good") based on their financial and personal information?
